@@ -1,1 +1,0 @@
--- Starter Crowdfunding SQL file
